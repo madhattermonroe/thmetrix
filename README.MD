@@ -146,7 +146,6 @@ pio device monitor
 
 ---
 
-t
 MIT License — free to use, modify, and distribute.
 
 ---
