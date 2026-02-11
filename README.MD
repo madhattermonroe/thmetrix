@@ -52,7 +52,7 @@ This project is designed for simple environmental monitoring scenarios such as b
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/pvdiulin/thmetrix.git
+git clone https://github.com/pvdiulin/ESP32-C3_BME280_HTTP_Sensor_Node.git
 cd thmetrix
 ```
 
