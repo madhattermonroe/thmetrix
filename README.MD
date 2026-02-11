@@ -6,7 +6,7 @@ This project is designed for simple environmental monitoring scenarios such as b
 
 ---
 
-## ✨ Features
+## Features
 
 - Temperature, humidity, and pressure measurement
 - I²C BME280 sensor integration
@@ -19,7 +19,7 @@ This project is designed for simple environmental monitoring scenarios such as b
 
 ---
 
-## 🧰 Hardware Requirements
+## Hardware Requirements
 
 ### Components
 
@@ -39,7 +39,7 @@ This project is designed for simple environmental monitoring scenarios such as b
 
 ---
 
-## 📦 Software Requirements
+## Software Requirements
 
 - VS Code
 - PlatformIO extension
@@ -99,7 +99,7 @@ pio device monitor
 
 ---
 
-## 📡 Example JSON Payload
+## Example JSON Payload
 
 ```json
 {
@@ -112,7 +112,7 @@ pio device monitor
 
 ---
 
-## 🧪 Troubleshooting
+## Troubleshooting
 
 ### Sensor not detected
 
@@ -135,7 +135,7 @@ pio device monitor
 
 ---
 
-## 🚀 Possible Extensions
+## Possible Extensions
 
 - MQTT telemetry publishing
 - Deep sleep battery operation
@@ -151,7 +151,7 @@ MIT License — free to use, modify, and distribute.
 
 ---
 
-## ❤️ Acknowledgements
+## Acknowledgements
 
 - ESP32 Arduino framework
 - Adafruit BME280 library
