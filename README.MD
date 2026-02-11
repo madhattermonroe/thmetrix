@@ -58,7 +58,7 @@ cd thmetrix
 
 ### 2. Configure credentials
 
-Create the file:
+Edit or create the file:
 
 ```
 src/config.h
